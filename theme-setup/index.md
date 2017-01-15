@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Theme Setup
+title: Installation .::. Theme Setup
 excerpt: "Instructions on how to install and customize the Jekyll theme So Simple."
 modified: 2016-09-12T08:42:37-04:00
 image:
@@ -9,14 +9,14 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-General notes and suggestions for customizing **So Simple Theme**.
+TIPP .::. General notes and suggestions for customizing **So Simple Theme**.
 
 * Table of Contents
 {:toc}
 
 ## Installation
 
-So Simple now requires [Jekyll](http://jekyllrb.com/) 3.0. Make sure to run `bundle update` if you aren't on the latest version to update all gem dependencies.
+So einfach .::. So Simple now requires [Jekyll](http://jekyllrb.com/) 3.0. Make sure to run `bundle update` if you aren't on the latest version to update all gem dependencies.
 
 If you are creating a new Jekyll site using So Simple follow these steps:
 

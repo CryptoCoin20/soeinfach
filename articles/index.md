@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sample Articles
-excerpt: "An archive of articles sorted by date."
+title: Beispiel Artikel .::. Sample Articles
+excerpt: "Ein Artikel .::. An archive of articles sorted by date."
 search_omit: true
 ---
 

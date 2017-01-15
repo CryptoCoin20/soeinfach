@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Über .::. About the Jekyll Theme
-excerpt: "WIR sind so einfach .::. So Simple is a responsive Jekyll theme for your words and images."
+title: HOME .::. About the Jekyll Theme
+excerpt: "HOME .::. So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: so-simple-sample-image-4.jpg

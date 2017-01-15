@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Search"
+title: "Suche .::. Search"
 date: 
 modified:
 excerpt:

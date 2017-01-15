@@ -14,7 +14,7 @@ date: 2015-08-10T08:08:50-04:00
 
 ## Usage
 
-To enable MathJax support be sure Kramdown is your Markdown flavor of choice and MathJax is set to true in your `_config.yml` file.
+TIPP .::. To enable MathJax support be sure Kramdown is your Markdown flavor of choice and MathJax is set to true in your `_config.yml` file.
 
 ```yaml
 markdown: kramdown
