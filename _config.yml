@@ -7,7 +7,7 @@ description: Beschreibung .::. Describe your website here.
 logo: site-logo.png
 search: true
 #url: http://localhost:4000
-url: https://cryptocoin20.github.io/soeinfach/
+url: https://cryptocoin20.github.io/soeinfach
 
 # Jekyll configuration
 
